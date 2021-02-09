@@ -1,7 +1,7 @@
 {
-  "name": "electron-quick-start",
+  "name": "coaching-toolbox",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A toolbox to support modern coaches",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
@@ -9,9 +9,9 @@
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
     "Electron",
-    "quick",
+    "coaching",
     "start",
-    "tutorial",
+    "toolbox",
     "demo"
   ],
   "author": "GitHub",
